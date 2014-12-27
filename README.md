@@ -1,4 +1,5 @@
 ankush_h_prasad_repo
 ====================
 
-Collection of my University assignments and other projects I coded on interest
+I am Ankush, pusuing Master's in Computer Science at University of Southern California. This repository holds projects
+completed by me that are part of University assignments and other projects done on interest.
